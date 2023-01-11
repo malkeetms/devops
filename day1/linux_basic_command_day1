@@ -1,0 +1,64 @@
+echo "HISTORY OF LINUX "
+
+
+echo " Linux, computer operating system created in the early 1990s by Finnish software engineer Linus Torvalds and the Free Software Foundation (FSF)"
+
+
+echo " Basic Command Of linux "
+
+
+*****************************************
+
+	# cat > file1.txt           __________________________    Create a file & write text .
+	
+	# cat >> file1.txt		__________________________    Add text in current file .
+
+	# cat file1.txt 		_________________________    See file data 
+
+
+
+*****************************************
+
+
+	# touch file2.txt		--------------------------- Create empty file
+
+	# touch file3.txt file4.txt  file5.txt   	-------------------   crete multiple empty file 
+
+	# touch file1.txt  		-------------------------------- change time stamp 
+	
+	# stat file2.txt   			-------------------------------   see time stamp 
+
+	# touch -a file2  		-------------------------------------   Change the access time
+
+	# touch -m file2		------------------------------         change modify time
+
+
+ ***************************************
+
+
+	# vi file6.txt     		.....................................  vi editor command & write text 
+	
+	
+
+					##  :w  _______________________to save
+
+					##  :wq & :x _______________________to save & Quit
+
+					##  :q    ___________________________quit
+
+					##  :q!   ___________________________force quit no save
+
+
+
+****************************************
+
+	# nano file7.txt		__________________________________ to create file & write text 
+
+					
+					## ctrl+Y , Enter  ------------save file & exit
+
+					## ctrl+o , ctrl+x ---------------- overwrite file & exit 
+
+
+
+****************************************

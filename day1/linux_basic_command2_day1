@@ -1,0 +1,31 @@
+echo " Basic Commands & Directory command "
+
+
+
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+		# pwd -- shows present working directory location
+		
+		# ls  -- shows list of files & directory 
+
+		# echo -- print command 
+
+		# clear  -- clear screen 
+
+		# history -- it shows  command history 
+
+		# date   -- time & date 
+		
+		# ifconfig -- it shows ip address 
+		
+		# rm -rf   -- remove file & dirctory 
+	
+
+		>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+		# mkdir folder1 -------------------------- for create directory 
+
+		 
+

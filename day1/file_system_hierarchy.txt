@@ -1,0 +1,26 @@
+echo " File system hierarchy in linux"
+
+
+	*****************************************************************
+
+
+		 /root -- home directory for root user
+
+		/home -- home directory for other users
+
+		/boot -- it contains bootable files for linux 
+
+		/etc --	it contains all configuration files
+
+		/usr -- by default software are installed in this directory 
+
+		/bin -- it contains commands used by all users 
+
+		/sbin -- it contains commands used by only root user
+
+		/opt -- optional application software packages 
+
+		/dev -- this include terminal devices usb or any devices connect to the system
+
+
+  	 
